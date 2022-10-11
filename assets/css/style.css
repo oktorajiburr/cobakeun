@@ -1,0 +1,30 @@
+/* CSS DOCUMENT */
+.background-black{
+    background: #000000;
+}
+
+.backgrond-white{
+    background: #FFFFFF;
+}
+
+.background-ulasan{
+    background: #E2E2E2;
+}
+
+.btn-light{
+    margin-bottom: 120px;
+    
+}
+
+.dua{
+    margin-bottom: 120px;
+    margin-top: 30px;
+}
+
+.tiga{
+    margin-top: 20px;
+}
+
+.foto{
+   align-content: center;
+}
